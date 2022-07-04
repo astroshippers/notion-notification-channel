@@ -1,13 +1,13 @@
 {
-    "name": "laravel-notification-channels/notion",
-    "description": ":package_description",
+    "name": "astroshippers/notion-notification-channel",
+    "description": "Notion Notifications driver",
     "homepage": "https://github.com/laravel-notification-channels/notion",
     "license": "MIT",
     "authors": [
         {
             "name": "Ostap",
             "email": "osbre@protonmail.com",
-            "homepage": ":author_website",
+            "homepage": "github.com/osbre",
             "role": "Developer"
         }
     ],
