@@ -5,7 +5,7 @@ namespace NotificationChannels\Notion\Properties;
 class Checkbox extends AbstractProperty
 {
     public function __construct(
-        protected bool $value
+        protected bool $value,
     ) {
     }
 

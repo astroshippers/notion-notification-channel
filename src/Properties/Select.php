@@ -5,7 +5,7 @@ namespace NotificationChannels\Notion\Properties;
 class Select extends AbstractProperty
 {
     public function __construct(
-        protected string $value
+        protected string $value,
     ) {
     }
 
